@@ -1,2 +1,8 @@
-# clinica-python
-aplicacion hecho  a base de python
+# Clinica
+Aplicacion hecho a base de python
+
+## Herramientas
+
+## Librerias
+
+## Documentacion
